@@ -1,4 +1,4 @@
-package com.atuldwivedi.dsusingjava.sort;
+package com.atuldwivedi.dsandalgo.sort;
 
 public class MyInsertionSort {
 

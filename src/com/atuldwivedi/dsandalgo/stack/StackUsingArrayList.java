@@ -1,4 +1,4 @@
-package com.atuldwivedi.dsusingjava.stack;
+package com.atuldwivedi.dsandalgo.stack;
 
 import java.util.ArrayList;
 
