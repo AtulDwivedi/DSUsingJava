@@ -68,4 +68,23 @@ public class LinkedList {
 		}
 		last.next = newNode;
 	}
+
+	public void sortedInsert(int data) {
+		Node newNode = new Node(25);
+
+		if (head == null) {
+			head = newNode;
+			return;
+		}
+
+		Node currentNode = head;
+
+		while (currentNode.next != null && currentNode.next.data < newNode.data) {
+			currentNode = currentNode.next;
+		}
+
+		newNode.next = currentNode.next;
+		currentNode.next = newNode;
+
+	}
 }
