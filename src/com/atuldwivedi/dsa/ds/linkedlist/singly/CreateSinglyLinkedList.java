@@ -1,6 +1,6 @@
-package com.atuldwivedi.dsandalgo.linkedlist.singly;
+package com.atuldwivedi.dsa.ds.linkedlist.singly;
 
-import com.atuldwivedi.dsandalgo.linkedlist.singly.LinkedList.Node;
+import com.atuldwivedi.dsa.ds.linkedlist.singly.LinkedList.Node;
 
 public class CreateSinglyLinkedList {
 	public static void main(String[] args) {

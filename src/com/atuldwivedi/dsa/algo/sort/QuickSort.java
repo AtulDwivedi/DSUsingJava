@@ -1,4 +1,4 @@
-package com.atuldwivedi.dsandalgo.algo.sort;
+package com.atuldwivedi.dsa.algo.sort;
 
 public class QuickSort {
 	   /* This function takes last element as pivot,

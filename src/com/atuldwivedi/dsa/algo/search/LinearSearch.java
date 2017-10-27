@@ -1,4 +1,4 @@
-package com.atuldwivedi.dsandalgo.algo.search;
+package com.atuldwivedi.dsa.algo.search;
 
 public class LinearSearch {
 	// This function returns index of element x in arr[]

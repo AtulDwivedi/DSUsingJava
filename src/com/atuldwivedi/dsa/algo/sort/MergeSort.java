@@ -1,4 +1,4 @@
-package com.atuldwivedi.dsandalgo.algo.sort;
+package com.atuldwivedi.dsa.algo.sort;
 
 /* Java program for Merge Sort */
 public class MergeSort

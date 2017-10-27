@@ -1,4 +1,4 @@
-package com.atuldwivedi.dsandalgo.stack;
+package com.atuldwivedi.dsa.ds.stack;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package com.atuldwivedi.dsandalgo.algo.sort;
+package com.atuldwivedi.dsa.algo.sort;
 
 public class InsertionSort {
 	/*Function to sort array using insertion sort*/

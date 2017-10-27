@@ -1,4 +1,4 @@
-package com.atuldwivedi.dsandalgo.linkedlist.singly;
+package com.atuldwivedi.dsa.ds.linkedlist.singly;
 
 public class LinkedList {
 

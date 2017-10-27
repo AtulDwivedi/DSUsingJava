@@ -1,4 +1,4 @@
-package com.atuldwivedi.dsandalgo.algo.search;
+package com.atuldwivedi.dsa.algo.search;
 
 public class BinarySearch {
 	// Returns index of x if it is present in arr[l..r], else

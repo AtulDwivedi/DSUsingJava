@@ -1,6 +1,6 @@
 package com.atuldwivedi.dsusingjava.stack;
 
-import com.atuldwivedi.dsandalgo.stack.StackUsingArray;
+import com.atuldwivedi.dsa.ds.stack.StackUsingArray;
 
 public class StackUsingArrayTest {
 	public static void main(String[] args) {
